@@ -25,3 +25,10 @@ La salida del programa muestra los detalles de cada película en la consola en f
 ### Ejemplo de salida
 ![image](https://user-images.githubusercontent.com/97809361/229014974-ed770359-5e54-4f62-a030-9b84a6a91579.png)
 
+
+## Créditos 🧾
+
+Este programa fue creado por [Paula Acosta] como parte del Evento de inmersión en Java ofrecido por Alura.
+
+
+
