@@ -14,7 +14,7 @@ Este es un programa Java que utiliza una API para obtener los detalles de las Mo
 
 ## Uso
 
-Para utilizar este programa, es necesario tener una clave de API de OMDB. La clave se puede obtener en [IMDB API]( https://imdb-api.com/). Una vez que tenga la clave, cree un archivo `config.txt` dentro de la carpeta `config` con el siguiente contenido:
+Para utilizar este programa, es necesario tener una clave de API de IMDB. La clave se puede obtener en [IMDB API]( https://imdb-api.com/). Una vez que tenga la clave, cree un archivo `config.txt` dentro de la carpeta `config` con el siguiente contenido:
 
 api_key=<su clave de API aquí>
 
