@@ -1,1 +1,0 @@
-api_key = https://imdb-api.com/en/API/MostPopularMovies/k_c4e8g99d
